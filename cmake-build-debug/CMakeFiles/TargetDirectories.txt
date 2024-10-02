@@ -1,0 +1,3 @@
+C:/Users/pc/Desktop/Taller-N-1-Estruc.Datos-Version2.0-main/cmake-build-debug/CMakeFiles/TallerN_1.dir
+C:/Users/pc/Desktop/Taller-N-1-Estruc.Datos-Version2.0-main/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/pc/Desktop/Taller-N-1-Estruc.Datos-Version2.0-main/cmake-build-debug/CMakeFiles/rebuild_cache.dir
